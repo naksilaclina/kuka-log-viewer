@@ -1,5 +1,5 @@
 import Image from "next/image";
-import LogViewer from "../components/LogViewer";
+import LogViewer from "@/components/log-viewer/LogViewer";
 
 export default function Home() {
   return (
